@@ -19,12 +19,12 @@ export default class createTableTransactionCategories1593419956983
           },
           {
             name: 'created_at',
-            type: 'datetime',
+            type: 'timestamp',
             default: 'now()',
           },
           {
             name: 'updated_at',
-            type: 'datetime',
+            type: 'timestamp',
             default: 'now()',
           },
         ],
